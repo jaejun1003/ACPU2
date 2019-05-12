@@ -1,7 +1,6 @@
 # ACPU2
 <html>
 <head>
-  <title>WEB1 - Welcome</title>
   <meta charset="utf-8">
 </head>
 <body>
@@ -38,6 +37,4 @@
 <ol> 너에 대한 한줄평: 까맣다</ol>
   </p>
 </body>
-<style>
-body{background-color: lightyellow}
 </html>
